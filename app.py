@@ -510,8 +510,3 @@ st.markdown(
     Books to Scrape (a website made for practicing web scraping).
     """
 )
-
-
-st.caption(
-    "Portfolio project — Web Scraping & Data Analytics"
-)
