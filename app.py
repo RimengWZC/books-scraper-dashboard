@@ -499,24 +499,15 @@ st.markdown(
     - Pandas
     - Streamlit
 
-    **Scraping Workflow**
+    **Goal**
 
-    `50 Web Pages`
-    → `1,000 Books`
-    → `Data Cleaning`
-    → `DataFrame`
-    → `Interactive Dashboard`
+    This is my first web scraping project, and I’m using it
+    to get hands-on experience with scraping, data cleaning,
+    and building simple interactive apps.
 
     **Data Source**
 
-    Books to Scrape — a website specifically designed
-    for practicing web scraping.
-
-    **Project Goal**
-
-    This project demonstrates how web scraping can be
-    combined with data processing and interactive
-    visualization to create a simple data product.
+    Books to Scrape (a website made for practicing web scraping).
     """
 )
 
